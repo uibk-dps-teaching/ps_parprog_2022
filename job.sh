@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Execute job in the partition "lva.q" unless you have special requirements.
+# Execute job in the partition "lva" unless you have special requirements.
 #SBATCH --partition=lva
 # Name your job to be able to identify it later
 #SBATCH --job-name test

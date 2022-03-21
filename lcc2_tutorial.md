@@ -42,7 +42,7 @@ While you should consult the SLURM documentation (e.g. https://www.uibk.ac.at/zi
 
 ### SLURM Example Job Script for OpenMP applications
 
-While all commands can also be given to `sbatch` on the command line, users usually write job scripts for proper documentation and for keeping the command line invocation as short as possible. The commands in the job script are special comments, marked with `#$`, which are read and processed by `sbatch`. See [job.sh](job.sh) for an example script.
+While all commands can also be given to `sbatch` on the command line, users usually write job scripts for proper documentation and for keeping the command line invocation as short as possible. The commands in the job script are special comments, marked with `#SBATCH`, which are read and processed by `sbatch`. See [job.sh](job.sh) for an example script.
 
 ### Module System
 
