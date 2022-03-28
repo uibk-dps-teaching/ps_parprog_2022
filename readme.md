@@ -31,6 +31,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2022-03-15 | -          | Administrative matters, introduction to LCC2                |
 | 2022-03-22 | [1](01)    | Speedup, Amhdal's law, measurements                         |
 | 2022-03-29 | [2](02)    | Sequential performance, cache effects, pthread parallelism  |
+| 2022-04-05 | [3](03)    | OpenMP parallelism, performance analysis, false sharing     |
 
 ## General Information
 
