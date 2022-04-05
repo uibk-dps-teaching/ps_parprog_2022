@@ -10,7 +10,7 @@ This exercise consists of exploring the effects of OpenMP thread affinity.
 
 ### Tasks
 
-- Write an OpenMP program that atomically increments an `int` in a parallel loop for a large number of iterations, i.e. such that the program takes at least 2 seconds to execute. Have the program print the time required to process the entire loop. Compile your program with gcc 8.2.0 and optimization level `-O3`.
+- Write an OpenMP program that atomically increments an `int` in a parallel loop for a large number of iterations, i.e. such that the program takes at least 2 seconds to execute. Have the program print the time required to process the entire loop. Compile your program with gcc 10.3.0 and optimization level `-O3`.
 - Run your program with 4 threads. Explore the affinity features of OpenMP 4.0 to change the way threads are mapped to cores, e.g. using a single CPU only or using both CPUs. Explain the affinity settings that you chose.
 - Benchmark your program with these affinity settings. What can you observe?
 
