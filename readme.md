@@ -34,6 +34,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2022-04-05 | [3](03)    | OpenMP parallelism, performance analysis, false sharing     |
 | 2022-04-26 | [4](04)    | OpenMP affinity, flush, and task parallelism                |
 | 2022-05-03 | [5](05)    | OpenMP task parallelism, heat stencil                       |
+| 2022-05-10 | [6](06)    | More OpenMP applications (prefix sum and N-Queens problem)  |
 
 ## General Information
 
