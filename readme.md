@@ -36,6 +36,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2022-05-03 | [5](05)    | OpenMP task parallelism, heat stencil                       |
 | 2022-05-10 | [6](06)    | More OpenMP applications (prefix sum and N-Queens problem)  |
 | 2022-05-17 | [7](07)    | Vectorization with and without OpenMP                       |
+| 2022-05-24 | [8](08)    | Profiling and parallelization of a mystery application      |
 
 ## General Information
 
