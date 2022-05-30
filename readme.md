@@ -38,6 +38,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2022-05-17 | [7](07)    | Vectorization with and without OpenMP                       |
 | 2022-05-24 | [8](08)    | Profiling and parallelization of a mystery application      |
 | 2022-05-31 | [9](09)    | OpenMP correctness, auto-vectorization, dependence analysis |
+| 2022-06-07 | [10](10)   | Dependencies, Dependencies, Dependencies                    |
 
 ## General Information
 
