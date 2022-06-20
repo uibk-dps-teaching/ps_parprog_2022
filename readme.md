@@ -41,6 +41,7 @@ for that assignment have to be handed in via OLAT by 17:00 on the previous day
 | 2022-06-07 | [10](10)   | Dependencies, Dependencies, Dependencies                    |
 | 2022-06-14 | [11](11)   | N-Body simulation                                           |
 | 2022-06-21 | [12](12)   | Scalar architectures and optimizations                      |
+| 2022-06-28 | [13](13)   | Matrix multiplication                                       |
 
 ## General Information
 
